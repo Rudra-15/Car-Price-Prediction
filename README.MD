@@ -11,5 +11,6 @@ Project Structure
 - `car data.csv`: The dataset.
 - `README.md`: Project documentation.
 - `car_price_model.pkl`: The trained model.
- Results
+
+Results
 - Mean Absolute Error (MAE), Mean Squared Error (MSE), and R² Score are displayed in the terminal.
